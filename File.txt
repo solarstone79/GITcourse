@@ -1,1 +1,2 @@
-Change in file
+Change in file.
+New changes in this file would override previous ones.
